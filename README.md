@@ -42,6 +42,10 @@ agar tampilan kelihatan menarik, tambahkan CSS seperti ini,
 ***
 ![lab3-9](https://user-images.githubusercontent.com/37741274/114259244-b6a1e580-99f6-11eb-86e6-4e493272b1d7.png)
 ###
+# pertanyaan dan tugas
+***
+![jawabam1](https://user-images.githubusercontent.com/37741274/114259872-73964100-99fb-11eb-8b2e-005c7a484e1d.png)
+
 
 
 
